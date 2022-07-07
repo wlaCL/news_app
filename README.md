@@ -1,4 +1,4 @@
-# appicacion_noticias
+# aplicacion de Noticias
 Aplicación desarrollada con la ayuda del [Curso de udemy de Fernando Herrera](https://www.udemy.com/course/flutter-ios-android-fernando-herrera/?couponCode=JULIO-2022) 
 
 
